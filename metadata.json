@@ -1,0 +1,6 @@
+{
+  "name": "SynthSnake",
+  "description": "Dark neon Snake arcade paired with an interactive three-track synthesized AI music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
